@@ -8,3 +8,9 @@ while (val >= 1):
     val -= 1  # Decrement by 1 instead of 10
 
 print("loop ended")
+
+
+
+
+# for loop:
+
